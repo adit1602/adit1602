@@ -78,6 +78,19 @@
 ![Indra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adit1602&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adit1602&layout=compact&theme=tokyonight)
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adit1602&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Streak Stats"/>
+</div>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50"> Tech Arsenal
+
+<div align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="500">
+</div>
+
 ---
 
 ## 🌐 Let’s Connect!
