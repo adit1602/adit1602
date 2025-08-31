@@ -8,7 +8,7 @@
 
 <!-- Anime character or coding GIF -->
 <div align="center">
-  <img src="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/81/2024/10/03/gojo-pxl-1386634609.jpg" width="auto" height="auto"/>
+  <img src="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/81/2024/10/03/gojo-pxl-1386634609.jpg" width="full" height="full"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm <strong>Indra Adityawarman</strong></h1>
