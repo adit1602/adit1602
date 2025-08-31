@@ -2,9 +2,6 @@
    Hero / Animated Header
    (Upload hero.gif ke root repo profilmu)
    ========================= -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/adit1602/adit1602/main/hero.gif" alt="Hero" width="100%" />
-</p>
 
 <!-- Anime character or coding GIF -->
 <div align="center">
