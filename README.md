@@ -3,12 +3,12 @@
    (Upload hero.gif ke root repo profilmu)
    ========================= -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/hero.gif" alt="Hero" width="100%" />
+  <img src="https://raw.githubusercontent.com/adit1602/adit1602/main/hero.gif" alt="Hero" width="100%" />
 </p>
 
 <!-- Anime character or coding GIF -->
 <div align="center">
-  <img src="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/81/2024/10/03/gojo-pxl-1386634609.jpg" style="object-fit: cover; border-radius: 15px;"/>
+  <img src="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/81/2024/10/03/gojo-pxl-1386634609.jpg" style="object-fit: cover; "/>
 </div>
 
 <h1 align="center">Hi 👋, I'm <strong>Indra Adityawarman</strong></h1>
