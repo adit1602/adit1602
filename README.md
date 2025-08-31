@@ -39,69 +39,59 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TS" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" />
-</p>
+**Frontend:**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-black?style=for-the-badge&logo=radix-ui&logoColor=white)
 
----
+**Backend & Tools:**  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-## ✨ Featured Projects (with GIF preview — upload GIFs to repo `assets/`)
-
-### [Project A — Amazing UI Kit](https://github.com/YOUR_USERNAME/project-a)
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/project-a-demo.gif" width="420" alt="project-a-gif" />
-  &nbsp;&nbsp;
-  **Stack:** React, TypeScript, Tailwind — Interactive component library + docs site.
-</p>
-
-### [Project B — Petshop POS](https://github.com/YOUR_USERNAME/petshop-pos)
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/petshop-demo.gif" width="420" alt="petshop-gif" />
-  &nbsp;&nbsp;
-  **Stack:** React, Vite, Express — POS system with product & stock management.
-</p>
+**Other:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## 📫 Connect with me
+## 📌 Featured Projects
 
-<p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/YOUR_IG"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:your-email@mail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+### 🔹 [Petshop POS](https://github.com/yourusername/petshop-pos)
 
----
+> A Point of Sale system for managing products, sales, and users.  
+> **Stack:** React, TypeScript, Tailwind, Express.js
 
-## 🎁 Small touches (optional)
+### 🔹 [Scholarship Management System](https://github.com/yourusername/scholarship-system)
 
-- Add `hero.gif` to the repo root for animated header.
-- Add demo GIFs to `assets/` (`assets/project-a-demo.gif`, `assets/petshop-demo.gif`).
-- Use the **typing SVG** (already included) to show rotating job titles or sentences.
-- Use `readme-typing-svg` to customize fonts, colors, lines.
+> Web app to manage scholarship programs with search, filter, and dashboard features.  
+> **Stack:** Vue.js, TypeScript, Node.js
 
----
+### 🔹 [Plastic Bottle Detection with YOLOv8](https://github.com/yourusername/bottle-detection)
 
-### 🔧 How to make & add GIFs quickly
-
-1. Record short screen demo (2–6s) with LICEcap, OBS, or use Canva/ Figma to export as GIF.
-2. Optimize GIF (ezgif.com or Gifsicle) to keep size small (<1MB recommended).
-3. Upload to your profile repo (path: `assets/<name>.gif`). Commit & push — GitHub will render it instantly.
+> Computer vision project for detecting plastic bottles based on brands using YOLOv8.  
+> **Stack:** Python, OpenCV, YOLOv8
 
 ---
 
-If mau, saya bisa:
+## 📊 GitHub Stats
 
-- Buatkan header GIF sederhana (kanvas/slide) yang cocok untuk portfolio (kamu cukup upload hero.gif hasil saya buat).
-- Atau bikin versi minimal tanpa GIF (lebih cepat untuk recruiter).
+![Indra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
 
-Mau saya langsung generate contoh `hero.gif` dan demo GIF untukmu? (kalau iya, saya akan sertakan file yang bisa kamu download & upload ke repo)
+---
+
+## 🌐 Let’s Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+
+---
+
+✨ _“Code is like humor. When you have to explain it, it’s bad.”_ ✨
