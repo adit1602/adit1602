@@ -8,7 +8,7 @@
 
 <!-- Anime character or coding GIF -->
 <div align="center">
-  <img src="https://selfietime.id/storage/248891/jGoyYgqZos4PCsQAAtx5QnMDV5wREz-metaZ29qby5qcGc=-.jpg" width="600" height="300"/>
+  <img src="https://selfietime.id/storage/248891/jGoyYgqZos4PCsQAAtx5QnMDV5wREz-metaZ29qby5qcGc=-.jpg" width="auto" height="auto"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm <strong>Indra Adityawarman</strong></h1>
