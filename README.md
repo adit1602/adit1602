@@ -77,7 +77,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adit1602&show_icons=true&theme=tokyonight" alt="Streak Stats"/>
-</div>
+</div> <br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adit1602&layout=compact&theme=tokyonight" alt="Streak Stats"/>
