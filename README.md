@@ -23,8 +23,6 @@
 
 ---
 
-## 🔥 Quick Stats (animated & live)
-
 <p align="center">
   <!-- Contribution graph (SVG) -->
   <img src="https://activity-graph.herokuapp.com/graph?username=YOUR_USERNAME&theme=react-dark" alt="Contribution Graph" />
