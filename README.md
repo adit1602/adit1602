@@ -6,6 +6,11 @@
   <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/hero.gif" alt="Hero" width="100%" />
 </p>
 
+<!-- Anime character or coding GIF -->
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 <h1 align="center">Hi 👋, I'm <strong>Indra Adityawarman</strong></h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=7DD3FC&center=true&width=680&lines=Frontend+Developer;React+%26+TypeScript+%7C+Tailwind+%7C+UI%2FUX;I+build+modern%2C+accessible+web+apps" alt="typing">
