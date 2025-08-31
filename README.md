@@ -1,72 +1,25 @@
 <!-- =========================
-   EPIC ANIME-STYLE README
+   Hero / Animated Header
+   (Upload hero.gif ke root repo profilmu)
    ========================= -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/hero.gif" alt="Hero" width="100%" />
+</p>
 
-<div align="center">
-  
-<!-- Anime GIF Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=INDRA%20ADITYAWARMAN&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Code%20Wizard%20%7C%20Tech%20Enthusiast&descAlignY=60&descSize=18"/>
+<h1 align="center">Hi 👋, I'm <strong>Indra Adityawarman</strong></h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=7DD3FC&center=true&width=680&lines=Frontend+Developer;React+%26+TypeScript+%7C+Tailwind+%7C+UI%2FUX;I+build+modern%2C+accessible+web+apps" alt="typing">
+</p>
 
-<!-- Animated Coding GIF -->
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+---
 
-<!-- Epic Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&height=100&lines=🚀+Welcome+to+my+Digital+Universe+🚀;💻+Full+Stack+Developer+💻;🎯+Laravel+%7C+React+%7C+Next.js+Expert+🎯;⚡+Building+Amazing+Web+Applications+⚡;🌟+Let's+Code+Something+Epic!+🌟" alt="Epic Typing SVG" />
+## 🚀 About Me
 
-<!-- Profile Views Counter with style -->
-<img src="https://komarev.com/ghpvc/?username=adit1602&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-
-</div>
-
-<!-- Divider with gradient -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+👋;I'm+Indra+Adityawarman!;" />
-</h1>
-
-<!-- Anime character or coding GIF -->
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50"> About Me
-
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-</div>
-
-<div align="center">
-
-```javascript
-const indra = {
-  name: "Indra Adityawarman",
-  title: "Full Stack Developer",
-  location: "Yogyakarta, Indonesia",
-  education: "Ahmad Dahlan University",
-  experience: "Frontend Developer Intern",
-  passion: ["Coding", "Learning", "Teaching", "Problem Solving"],
-  currentFocus: "Building Amazing Web Applications",
-  motto: "Code is Poetry in Motion ✨",
-};
-
-console.log("Welcome to my digital world! 🚀");
-```
-
-</div>
-
-🎓 **Fresh Graduate** — Ahmad Dahlan University, Yogyakarta  
-👨‍🏫 **Former Teaching Assistant** (mentored 200+ students)  
-💼 **Internships:** Biro Sistem Informasi UAD (Junior Frontend Developer)  
-💻 **Focusing on:** Frontend & Backend Development  
-✨ **I love:** Clean Code, Good UX, and Mentoring Others
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adit1602&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Streak Stats"/>
-</div>
+- 🎓 Fresh Graduate — Ahmad Dahlan University, Yogyakarta
+- 👨‍🏫 Former Teaching Assistant (mentored 200+ students)
+- 💼 Internships: **Biro Sistem Informasi UAD** (Junior Frontend Developer)
+- 💻 Focusing on **Frontend**: React, TypeScript, TailwindCSS, ShadCN UI — craft pixel-perfect, accessible UI.
+- ✨ I love clean code, good UX, and mentoring others.
 
 ---
 
