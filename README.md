@@ -77,9 +77,7 @@
 
 ![Indra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adit1602&show_icons=true&theme=tokyonight)
 
-<div align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adit1602&layout=compact&theme=tokyonight)
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adit1602&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Streak Stats"/>
