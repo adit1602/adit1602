@@ -23,20 +23,6 @@
 
 ---
 
-<p align="center">
-  <!-- Contribution graph (SVG) -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=YOUR_USERNAME&theme=react-dark" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <!-- GitHub readme stats (static images but lively layout) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="github stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark" alt="top languages" />
-</p>
-
----
-
 ## 🛠️ Tech Stack
 
 **Frontend:**  
